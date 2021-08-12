@@ -2,15 +2,23 @@
 
 The first assignment for the Rutgers coding bootcamp: optimizing the landing page of a hypothetical SEO firm.
 
-Tasks (from bootcamp):
+## Table of Contents
+[Tasks](#tasks)
 
--  [x] Ensure some form of 508 Compliance
--  [x] Improve DRYness
--  [x] ~~Ironic~~ SEO
+[The Results](#the-results)
 
-Tasks (from myself):
+[The How](#the-how)
 
--  [x] Asset and delivery optimization
+[Possible Improvements](#possible-improvements)
+
+
+## Tasks
+-  From bootcamp:
+   -  [x] Ensure some form of 508 Compliance
+   -  [x] Improve DRYness
+   -  [x] ~~Ironic~~ SEO
+-  From myself:
+   -  [x] Asset and delivery optimization
 
 ## The Results
 
@@ -50,6 +58,8 @@ Tasks (from myself):
 
 -  35% of `./assets/css/styles.css` was found to be redundant so I cut those out, consolidating elements with mostly similar properties where sensible.
    -  NOTE: Higher mobile scores (and beauty in general) can be achieved by making the site responsive, but we haven't covered that yet. I'll come back and implement this later
+
+---
 
 ## Possible improvements:
 
