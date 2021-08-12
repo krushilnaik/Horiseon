@@ -12,7 +12,7 @@ Tasks (from myself):
 
 -  [x] Asset and delivery optimization
 
-## The results
+## The Results
 
 ### PageSpeed Insights scores before optimization... 💀
 
