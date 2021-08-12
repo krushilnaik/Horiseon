@@ -2,11 +2,14 @@
 
 The first assignment for the Rutgers coding bootcamp: optimizing the landing page of a hypothetical SEO firm.
 
-Tasks:
+Tasks (from bootcamp):
 
 -  [x] Ensure some form of 508 Compliance
--  [x] DRY
--  [x] SEO (ironic)
+-  [x] Improve DRYness
+-  [x] ~~Ironic~~ SEO
+
+Tasks (from myself):
+
 -  [x] Asset and delivery optimization
 
 ## The results
