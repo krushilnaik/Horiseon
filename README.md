@@ -52,7 +52,7 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 
 ## The How
 
--  The images were shrunken down to their CSS-defined max widths/heights to prevent unnecessary down-scaling.
+-  The images were shrunken down to their CSS-defined max widths/heights to prevent unnecessary down-scaling. Afterwards, they were compressed via [tinypng](https://tinypng.com)
 
    -  NOTE: Since this is still an assignment to be graded by a human, minification of code will be skipped
 
@@ -63,4 +63,4 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 
 ## Possible improvements:
 
--  Network analyses show an abysmal render time (~17s) on "Slow 3G" throttling. I figure this is to be expected, but if anyone can think of a way to speed this up, let me know or submit a pull request! 👍
+-  Network analyses show an abysmal render time (~9s) on "Slow 3G" throttling. I figure this is to be expected, but if anyone can think of a way to speed this up, let me know or submit a pull request! 👍
