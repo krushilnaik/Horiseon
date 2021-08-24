@@ -1,6 +1,6 @@
 # Horiseon
 
-[<img src="https://i.imgur.com/nT9LavM.png" width="150" />](https://krushilnaik.github.io/Horiseon)
+[<img src="https://i.imgur.com/nT9LavM.png" height="40" />](https://krushilnaik.github.io/Horiseon)
 
 The first assignment for the Rutgers coding bootcamp: optimizing the landing page of a hypothetical SEO firm.
 
@@ -18,11 +18,11 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 
 -  From bootcamp:
    -  [x] Ensure some form of 508 Compliance
-   -  [~] Improve DRYness
+   -  [ ] Improve DRYness
    -  [x] ~~Ironic~~ SEO
 -  From myself:
    -  [x] Asset and delivery optimization
-   -  [~] Make the site responsive
+   -  [ ] Make the site responsive
 
 ## The Results
 
