@@ -14,6 +14,9 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 
 2. [The Results](#the-results)
 
+   -  [Desktop](#desktop)
+   -  [Mobile](#mobile)
+
 3. [The How](#the-how)
 
 4. [Possible Improvements](#possible-improvements)
@@ -30,7 +33,13 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 
 ## The Results
 
+### Desktop
+
 ![Site GIF](./screens/horiseon.desktop.gif)
+
+### Mobile
+
+![Site GIF](./screens/horiseon.mobile.gif)
 
 ### PageSpeed Insights scores before optimization... 💀
 
