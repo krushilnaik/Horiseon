@@ -5,7 +5,12 @@
 
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
+	/* This is only for debugging purposes */
 	/* border: dashed 2px red; */
+}
+
+body {
+	background-color: #d9dcd6;
 }
 
 header {
@@ -55,7 +60,7 @@ img {
 }
 
 .info {
-	background-color: rgba(55, 55, 55, 0.55);
+	background-color: rgba(55, 55, 55, 0.75);
 	color: white;
 	position: relative;
 }
@@ -71,13 +76,14 @@ img {
 
 .info p {
 	padding: 10px;
-	padding-top: 0;
 	font-weight: bold;
+	font-size: 24px;
 	text-align: center;
 }
 
 .info h2 {
 	padding: 10px;
-	font-size: 20px;
+	font-size: 21px;
 	text-align: center;
+	border-bottom: solid 1px white;
 }
