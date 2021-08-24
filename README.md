@@ -1,18 +1,22 @@
 # Horiseon
 
-[<img src="https://i.imgur.com/nT9LavM.png" height="40" />](https://krushilnaik.github.io/Horiseon)
+<p align="center">
+	<a href="https://krushilnaik.github.io/Horiseon">
+		<img src="https://i.imgur.com/nT9LavM.png" height="40" />
+	</a>
+</p>
 
 The first assignment for the Rutgers coding bootcamp: optimizing the landing page of a hypothetical SEO firm.
 
 ## Table of Contents
 
-[Tasks](#tasks)
+1. [Tasks](#tasks)
 
-[The Results](#the-results)
+2. [The Results](#the-results)
 
-[The How](#the-how)
+3. [The How](#the-how)
 
-[Possible Improvements](#possible-improvements)
+4. [Possible Improvements](#possible-improvements)
 
 ## Tasks
 
