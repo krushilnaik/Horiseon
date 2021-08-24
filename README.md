@@ -18,14 +18,15 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 
 -  From bootcamp:
    -  [x] Ensure some form of 508 Compliance
-   -  [x] Improve DRYness
+   -  [~] Improve DRYness
    -  [x] ~~Ironic~~ SEO
 -  From myself:
    -  [x] Asset and delivery optimization
+   -  [~] Make the site responsive
 
 ## The Results
 
-![Site GIF](./screens/horiseon.gif)
+![Site GIF](./screens/horiseon.desktop.gif)
 
 ### PageSpeed Insights scores before optimization... 💀
 
