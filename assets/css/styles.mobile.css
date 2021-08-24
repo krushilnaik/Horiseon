@@ -48,10 +48,6 @@ footer h2 {
 	font-size: 20px;
 }
 
-img {
-	display: none;
-}
-
 .content {
 	padding: 10px;
 	display: flex;
@@ -86,4 +82,23 @@ img {
 	font-size: 21px;
 	text-align: center;
 	border-bottom: solid 1px white;
+}
+
+.benefits {
+	text-align: center;
+	width: 90%;
+	margin: auto;
+}
+
+.benefits div img {
+	height: 100px;
+	width: 100px;
+}
+
+.benefits div {
+	padding: 15px;
+}
+
+.benefits div:not(:last-child) {
+	border-bottom: 2px solid #000;
 }
