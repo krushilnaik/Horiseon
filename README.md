@@ -61,7 +61,7 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 | :--------------------------------------------------------: | :------------------------------------------------------: |
 | ![desktop scores](./benchmarks/desktop/lighthouse-pre.png) | ![mobile scores](./benchmarks/mobile/lighthouse-pre.png) |
 
-### ... and after 😍
+### ... and after 🕺
 
 |                           Desktop                           |                          Mobile                           |
 | :---------------------------------------------------------: | :-------------------------------------------------------: |
