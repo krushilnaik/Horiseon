@@ -61,7 +61,7 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 | :--------------------------------------------------------: | :------------------------------------------------------: |
 | ![desktop scores](./benchmarks/desktop/lighthouse-pre.png) | ![mobile scores](./benchmarks/mobile/lighthouse-pre.png) |
 
-### ... and after 😍
+### ... and after 🕺
 
 |                           Desktop                           |                          Mobile                           |
 | :---------------------------------------------------------: | :-------------------------------------------------------: |
@@ -76,7 +76,6 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
    -  NOTE: Since this is still an assignment to be graded by a human, minification of HTML and CSS will be skipped
 
 -  35% of `./assets/css/styles.css` (renamed to `style.desktop.css`) was found to be redundant so I cut those out, consolidating elements with similar properties where sensible.
-   -  NOTE: Higher mobile scores (and beauty in general) can be achieved by making the site responsive, but we haven't covered that yet. I'll come back and implement this later
 
 ---
 
