@@ -1,0 +1,111 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	color: white;
+
+	/* This is only for debugging purposes */
+	/* border: dashed 2px red; */
+}
+
+body {
+	background-color: #d9dcd6;
+}
+
+header {
+	background-color: #2a607c;
+}
+
+header h1 {
+	display: flex;
+	justify-content: center;
+	font-size: 86px;
+	padding: 25px;
+}
+
+header h1 .seo {
+	color: #d9dcd6;
+}
+
+header div {
+	display: none;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	padding: 20px;
+}
+
+.info {
+	background-color: #0072bb;
+	padding: 25px;
+	height: fit-content;
+}
+
+.info img {
+	max-height: 200px;
+}
+
+.info h2 {
+	font-size: 40px;
+}
+
+.info p {
+	font-size: 40px;
+}
+
+.float-left {
+	float: left;
+	margin-right: 25px;
+}
+
+.float-right {
+	float: right;
+	margin-left: 25px;
+}
+
+.benefits {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 10px;
+	font-size: 24px;
+}
+
+.benefits div {
+	background-color: #0072bb;
+	padding: 20px 10px;
+	width: 45%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.benefits div p {
+	padding: 50px;
+	font-size: 36px;
+	text-align: center;
+}
+
+footer {
+	margin-top: 7%;
+	background-color: #2a607c;
+	padding: 30px;
+	clear: both;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',
+		Arial, sans-serif;
+	text-align: center;
+}
+
+footer h2 {
+	font-size: 36px;
+}
+
+footer p {
+	font-size: 30px;
+}
