@@ -25,7 +25,7 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
 
 -  From bootcamp:
    -  [x] Ensure some form of 508 Compliance
-   -  [ ] Improve DRYness
+   -  [x] Improve DRYness
    -  [x] ~~Ironic~~ SEO
 -  From myself:
    -  [x] Asset and delivery optimization
