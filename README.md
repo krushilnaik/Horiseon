@@ -29,7 +29,7 @@ The first assignment for the Rutgers coding bootcamp: optimizing the landing pag
    -  [x] ~~Ironic~~ SEO
 -  From myself:
    -  [x] Asset and delivery optimization
-   -  [ ] Make the site responsive
+   -  [x] Make the site responsive
 
 ## The Results
 
